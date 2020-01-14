@@ -1,2 +1,0 @@
-# useClick
-Created with CodeSandbox
